@@ -12,3 +12,6 @@ led的初步控制和动态延时函数
 
 [day02](notes/day02/2026.9.15_day02.md)
 独立按键控制led灯
+
+[day03](notes/day03/2026.9.16_day03.md)
+数码管显示
