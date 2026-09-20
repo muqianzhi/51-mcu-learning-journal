@@ -1,0 +1,15 @@
+#include <STC89C5xRC.H>
+#include "Delay.h"
+#include "UART.h"
+unsigned char Sec;
+
+void main()
+{
+	UartInit();
+	
+	while(1){
+		UART_SendByte(Sec);
+		Sec++;
+		Delay(1000);
+	}
+}
