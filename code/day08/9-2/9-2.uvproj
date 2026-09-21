@@ -45,7 +45,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\Objects\</OutputDirectory>
-          <OutputName>8-2</OutputName>
+          <OutputName>9-2</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -364,6 +364,11 @@
           <GroupName>Source Group 1</GroupName>
           <Files>
             <File>
+              <FileName>main.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\main.c</FilePath>
+            </File>
+            <File>
               <FileName>Delay.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Delay.c</FilePath>
@@ -374,19 +379,14 @@
               <FilePath>.\Delay.h</FilePath>
             </File>
             <File>
-              <FileName>main.c</FileName>
+              <FileName>MatrixLED.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\main.c</FilePath>
+              <FilePath>.\MatrixLED.c</FilePath>
             </File>
             <File>
-              <FileName>UART.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\UART.c</FilePath>
-            </File>
-            <File>
-              <FileName>UART.h</FileName>
+              <FileName>MatrixLED.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\UART.h</FilePath>
+              <FilePath>.\MatrixLED.h</FilePath>
             </File>
           </Files>
         </Group>

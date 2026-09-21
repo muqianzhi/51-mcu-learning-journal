@@ -27,3 +27,6 @@ led的初步控制和动态延时函数
 
 [day07](notes/day07/2026.9.20_day07.md)
 串口通信
+
+[day08](notes/day08/2026.9.21_day08.md)
+LED点阵屏显示
