@@ -33,3 +33,9 @@ LED点阵屏显示
 
 [day09](notes/day09/2026.9.22_day09.md)
 DS1302时钟
+
+[day10](notes/day10/2026.9.23_day10.md)
+蜂鸣器
+
+[day11](notes/day11/2026.9.24_day11.md)
+AT24C02
