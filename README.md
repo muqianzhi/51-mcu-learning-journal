@@ -39,3 +39,6 @@ DS1302时钟
 
 [day11](notes/day11/2026.9.24_day11.md)
 AT24C02
+
+[day12](notes/day12/2026.10.8_day12.md)
+DS18B20温度传感器
