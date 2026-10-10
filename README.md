@@ -42,3 +42,9 @@ AT24C02
 
 [day12](notes/day12/2026.10.8_day12.md)
 DS18B20温度传感器
+
+[day13](notes/day13/2026.10.9_day13.md)
+LCD1602
+
+[day14](notes/day14/2026.10.10_day14.md)
+直流电机驱动(PWM)
