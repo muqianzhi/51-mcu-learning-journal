@@ -1,0 +1,8 @@
+".\Objects\Delay.obj",
+".\Objects\Key.obj",
+".\Objects\Nixie.obj",
+".\Objects\Timer0.obj",
+".\Objects\main.obj" 
+TO ".\Objects\16-2" 
+PRINT(".\Listings\16-2.m51") RAMSIZE(256) 
+DISABLEWARNING (16) 
